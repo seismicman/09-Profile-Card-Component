@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/08-3-Column-Preview-Card-Component/](https://seismicman.github.io/08-3-Column-Preview-Card-Component/)
+Solution URL: [https://seismicman.github.io/09-Profile-Card-Component/](https://seismicman.github.io/09-Profile-Card-Component/)
 
 ## My process
 
